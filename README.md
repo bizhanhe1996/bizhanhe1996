@@ -1,5 +1,3 @@
 - 👋 Hi, I’m Bizhan Hejazi
-- 👀 I’m interested in Technology
-- 🌱 I’m currently learning AI.
-- 💞️ I’m looking to collaborate on educative projects.
+- 👀 Interested in Bioinformatics, AI and Data Science
 - 📫 How to reach me: bizhan.he1996@gmail.com
